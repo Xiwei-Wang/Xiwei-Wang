@@ -1,6 +1,6 @@
 ### Xiwei Wang
 
-Sophomore student in Computer Engineering at [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn)
+Junior student in Computer Engineering at [ZJU-UIUC Institute](https://zjui.intl.zju.edu.cn)
 
 Personal Homepage: [xiwei.wang](xiwei.wang)
 
