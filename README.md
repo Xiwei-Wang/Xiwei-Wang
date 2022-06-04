@@ -1,6 +1,6 @@
 ### Xiwei Wang
 
-I'm a new master student of Electrical & Computer Engineering Department (ECE) in University of Illinois at Urbana-Champaign (UIUC).
+I'm a new master student (with thesis) of Electrical & Computer Engineering Department (ECE) in University of Illinois at Urbana-Champaign (UIUC).
 
 I graduated as Bachelor in Computer Engineering at UIUC and Zhejiang University in May 2022, which is a [dual-degree bachelor program](https://zjui.illinois.edu/) led and managed jointly by both universities. It follows computer engineering curriculum from UIUC ECE Department.
 
